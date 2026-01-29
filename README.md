@@ -19,4 +19,4 @@ This is a living operating system, reviewed slowly and deliberately.
 - [Social Fluency & Worldliness](social.md)
 - [Travel, Access & World Exposure](travel.md)
 
-_Last reviewed: March 2026_
+_Last reviewed: January 2026_
