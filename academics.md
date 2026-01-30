@@ -1,3 +1,7 @@
+# [🎓 Homeschooling Operating System](/)
+
+---
+
 # Academic Foundations (Literacy & Numeracy)
 
 ## Goal
