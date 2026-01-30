@@ -1,4 +1,4 @@
-# 🎓 Homeschooling Operating System
+# [🎓 Homeschooling Operating System](/)
 
 This site documents how our family approaches education, learning, and development.
 
