@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/assets/style.css">
+
 # [🎓 Homeschooling Operating System](/)
 
 This site documents how our family approaches education, learning, and development.
