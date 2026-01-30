@@ -1,3 +1,7 @@
+# [🎓 Homeschooling Operating System](/)
+
+---
+
 # Failure, Resilience & Decision-Making
 
 ## Goal
