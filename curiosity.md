@@ -1,3 +1,7 @@
+# [🎓 Homeschooling Operating System](/)
+
+---
+
 # Curiosity & Learning How to Learn
 
 ## Goal
