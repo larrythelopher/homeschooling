@@ -1,3 +1,7 @@
+# [🎓 Homeschooling Operating System](/)
+
+---
+
 # Social Fluency & Worldliness
 
 ## Goal
