@@ -1,3 +1,7 @@
+# [🎓 Homeschooling Operating System](/)
+
+---
+
 # Travel, Access & World Exposure
 
 ## Goal
