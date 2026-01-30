@@ -1,3 +1,7 @@
+# [🎓 Homeschooling Operating System](/)
+
+---
+
 # Physical Confidence & Health
 
 ## Goal
